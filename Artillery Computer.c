@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/* Made By [SGT] Tovarisch Mohsen For Arma 3 Artillery Calculations. */
+/* Made By Tovarisch Mohsen For Arma 3 Artillery Calculations. */
 /* Find Me in Social Media @TovarischMohsen. */
 int main(int argc, char *argv[]) {
 	
